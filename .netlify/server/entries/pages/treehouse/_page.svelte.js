@@ -28,7 +28,7 @@ const artists = [
     twitter: "https://twitter.com/marculinopng",
     portfolio: "https://t.co/bzVv3ni7aQ",
     exchangeart: "https://exchange.art/artists/marculinopng/nfts",
-    marmelade: "https://famousfoxes.com/marmalade/4jKL6AZCUr8xT9dQN4jD7ZkCjJqdWPbtqkkSzNGZoDxX",
+    marmalade: "https://famousfoxes.com/marmalade/4jKL6AZCUr8xT9dQN4jD7ZkCjJqdWPbtqkkSzNGZoDxX",
     name: "Marculino"
   },
   {
@@ -36,7 +36,7 @@ const artists = [
     bio: "An odd artist in an odd world.",
     twitter: "https://twitter.com/OddSkull_",
     misc: "https://magiceden.io/creators/odd_skull",
-    marmelade: "https://famousfoxes.com/marmalade/5VrYihmR9bQPpDzjmKuFzjS2fXHW1aTnZreHjdooqREP",
+    marmalade: "https://famousfoxes.com/marmalade/5VrYihmR9bQPpDzjmKuFzjS2fXHW1aTnZreHjdooqREP",
     name: "OddSkull"
   },
   {
@@ -55,7 +55,7 @@ const artists = [
     portfolio: "https://nyaumon.wixsite.com/website",
     misc: "https://linktr.ee/nyaumon",
     exchangeart: "https://exchange.art/artists/Nyaumon/nfts",
-    marmelade: "https://famousfoxes.com/marmalade/D7Rzr6YnbKvHsmvrDbr8bbYecDcAZEeE5sJNMn1XQhDX",
+    marmalade: "https://famousfoxes.com/marmalade/D7Rzr6YnbKvHsmvrDbr8bbYecDcAZEeE5sJNMn1XQhDX",
     name: "Nyaumon",
     tws: true
   },
@@ -76,7 +76,7 @@ const artists = [
     misc: "https://www.magiceden.io/marketplace/cosplayx",
     instagram: "https://twitter.com/cosplayxio",
     portfolio: "https://cosplayx.io",
-    marmelade: "https://famousfoxes.com/marmalade/73RQ9nfbzdp9ZQNnocm3uN51GEKf6YZ7RCWfFWyoVqd6",
+    marmalade: "https://famousfoxes.com/marmalade/73RQ9nfbzdp9ZQNnocm3uN51GEKf6YZ7RCWfFWyoVqd6",
     name: "zeroxxx",
     chimpion: true
   },
@@ -85,7 +85,7 @@ const artists = [
     bio: "Artist best known for nostalgic lo-rez pixel art. Currently creating Pixel Places, Monster Friends + Zen-ROMs. Launched Zen0verse - 777 generative places in November 2021. Passionate about collecting art as well as creating it. Member of @_ledao and @The_URS_",
     twitter: "https://twitter.com/zen0m",
     portfolio: "https://zen0verse.notion.site/zen0verse/zen0m-3c25fb96ba654022961f58e048b1cadb",
-    marmelade: "https://famousfoxes.com/marmalade/zenom3SnXK6k2UJm73jRQ1n8U7KkLPrTypDatKjGxoL",
+    marmalade: "https://famousfoxes.com/marmalade/zenom3SnXK6k2UJm73jRQ1n8U7KkLPrTypDatKjGxoL",
     name: "Zen0"
   },
   {
@@ -93,14 +93,14 @@ const artists = [
     bio: "I like to create pixel art, illustrations and creative coding. My art is inspired in Skulls, doodles and retro techie vibes. For me, art is a process of constant exploration where I seek to express everything I imagine and feel about my inner world.",
     twitter: "https://twitter.com/4c3m1t4",
     portfolio: "https://tell.ie/4c3m1t4/ucqTwJWdCL8s",
-    marmelade: "https://famousfoxes.com/marmalade/9m8gjreD72K4LcvCwNQaWaAGLcY1kBwSjS37VyWUT5wr",
+    marmalade: "https://famousfoxes.com/marmalade/9m8gjreD72K4LcvCwNQaWaAGLcY1kBwSjS37VyWUT5wr",
     name: "4c3m1t4"
   },
   {
     piece: "lahseminit.gif",
     bio: "A fraction of collective opinions, and a struggling web3 artist",
     twitter: "https://instagram.com/lahseminit",
-    marmelade: "https://famousfoxes.com/marmalade/EpFbZxEXTcsxSFsrk3SJmYmEid47urqH2vNZrTzU4q5q",
+    marmalade: "https://famousfoxes.com/marmalade/EpFbZxEXTcsxSFsrk3SJmYmEid47urqH2vNZrTzU4q5q",
     name: "Faiq"
   },
   {
@@ -114,7 +114,7 @@ const artists = [
     bio: "Professional illustrator obsessed with creating cute, colorful, and cool.  Artist behind the Pepita and Friends and the Sol Badguys.",
     twitter: "https://twitter.com/duuurhminic",
     portfolio: "https://lynkfire.com/durhminic",
-    marmelade: "https://famousfoxes.com/marmalade/8Yh2YpsPSrPx1Ua5rqncsANHFi3nBLdjU5WWVmruMs6p",
+    marmalade: "https://famousfoxes.com/marmalade/8Yh2YpsPSrPx1Ua5rqncsANHFi3nBLdjU5WWVmruMs6p",
     name: "Durhminic"
   },
   {
@@ -135,14 +135,14 @@ const artists = [
     bio: `Hey there, I'm Greenview! Canadian NFT artist, currently working on telling the interactive story of @ShepardsSol on Solana. Join the story driven journey to save their home and stop the advance of "The Flare".`,
     twitter: "https://twitter.com/GreenviewSol",
     misc: "https://twitter.com/ShepardsSol",
-    marmelade: "https://famousfoxes.com/marmalade/5Lowd9vydvRLSdPM89qS2vT6acT6Tpx3AVCaVhNBZrkZ",
+    marmalade: "https://famousfoxes.com/marmalade/5Lowd9vydvRLSdPM89qS2vT6acT6Tpx3AVCaVhNBZrkZ",
     name: "Greenview"
   },
   {
     piece: "Rome colaboracion final - Toronja GB.gif",
     bio: "Pixel art in two colors, pink and blue",
     twitter: "https://twitter.com/Pinkyblu_",
-    marmelade: "https://famousfoxes.com/marmalade/26n9sNhZzvX5DJbtfmkXATPucJtAS5Rp7zMw8cWfDY64",
+    marmalade: "https://famousfoxes.com/marmalade/26n9sNhZzvX5DJbtfmkXATPucJtAS5Rp7zMw8cWfDY64",
     name: "Pinkyblu"
   },
   {
@@ -150,7 +150,7 @@ const artists = [
     bio: "I'm Jerome a multi-medium artist from Scotland!",
     twitter: "https://twitter.com/JeromeNft",
     exchangeart: "https://exchange.art/artists/Jerome/nfts",
-    marmelade: "https://famousfoxes.com/marmalade/DMgPQMC5hDsRMdmtBhFjDF6jNrT2Pgz2Pr9EFZ3eCoe3",
+    marmalade: "https://famousfoxes.com/marmalade/DMgPQMC5hDsRMdmtBhFjDF6jNrT2Pgz2Pr9EFZ3eCoe3",
     name: "Jerome"
   },
   {
@@ -182,14 +182,14 @@ const artists = [
     twitter: "https://twitter.com/muimooi",
     portfolio: "https://linktr.ee/muimooi",
     exchangeart: "https://exchange.art/artists/muimooi%20/nfts",
-    marmelade: "https://famousfoxes.com/marmalade/4JE8dPnPgdmtuxtyhBECc5Zd8o8haF4tNTdoZZYaPyQJ",
+    marmalade: "https://famousfoxes.com/marmalade/4JE8dPnPgdmtuxtyhBECc5Zd8o8haF4tNTdoZZYaPyQJ",
     name: "muimooi"
   },
   {
     piece: "IMG_0343 - Picopops NFT.jpg",
     bio: "Hello! I'm Pipopops, a digital artist from Indonesia, I draw characters & sci-fi stuff wrapped in vibrant colors.",
     twitter: "https://twitter.com/Picopops",
-    marmelade: "https://famousfoxes.com/marmalade/2DN6ZDYTfrsvrShCGEB1kfGXwZNWCwSD4Fw6eNNRDAre",
+    marmalade: "https://famousfoxes.com/marmalade/2DN6ZDYTfrsvrShCGEB1kfGXwZNWCwSD4Fw6eNNRDAre",
     name: "Picopops"
   },
   {
@@ -260,7 +260,7 @@ const artists = [
     twitter: "https://www.twitter.com/imnotwordy",
     misc: "https://lynkfire.com/imnotwordy",
     exchangeart: "https://exchange.art/artists/imnotwordy/nfts",
-    marmelade: "https://famousfoxes.com/marmalade/CWrjfccxBYeVfxuAn4U65XAzNVAqFXeQTNcFVYAHTGXk",
+    marmalade: "https://famousfoxes.com/marmalade/CWrjfccxBYeVfxuAn4U65XAzNVAqFXeQTNcFVYAHTGXk",
     name: "Wordy"
   },
   {
@@ -287,7 +287,7 @@ const artists = [
     instagram: "https://www.instagram.com/septadenata/",
     portfolio: "https://linktr.ee/SDNT",
     exchangeart: "https://exchange.art/artists/SDNT/nfts",
-    marmelade: "https://famousfoxes.com/marmalade/2sqQ9ipqs8hvFgm9ez34RGHBaadmay6H7p87H65bGpnJ",
+    marmalade: "https://famousfoxes.com/marmalade/2sqQ9ipqs8hvFgm9ez34RGHBaadmay6H7p87H65bGpnJ",
     name: "SDNT"
   },
   {
@@ -302,7 +302,7 @@ const artists = [
     bio: "I'm Neuromind and I've been making digital paintings since 2010 utilizing programs such as Photoshop, Fractal, AI tools and various 3d programs. I'm also an aspiring game developer and hope to start making my own small game as well. I was drawn to Solana because of the Art and I've stayed because of the people.",
     twitter: "https://twitter.com/NeuromindArt",
     misc: "https://twitter.com/sol9lives",
-    marmelade: "https://famousfoxes.com/marmalade/HVmwvpRsDUAmT8p1yaiTvaQm2oGAZFuuABFVxK19xHvT",
+    marmalade: "https://famousfoxes.com/marmalade/HVmwvpRsDUAmT8p1yaiTvaQm2oGAZFuuABFVxK19xHvT",
     name: "Neuromind"
   }
 ];
@@ -319,7 +319,7 @@ const Treehouse_artists = create_ssr_component(($$result, $$props, $$bindings, s
   let { twitter = "" } = $$props;
   let { instagram = "" } = $$props;
   let { portfolio = "" } = $$props;
-  let { marmelade = "" } = $$props;
+  let { marmalade = "" } = $$props;
   let { exchangeart = "" } = $$props;
   let { misc = "" } = $$props;
   if ($$props.piece === void 0 && $$bindings.piece && piece !== void 0)
@@ -334,14 +334,14 @@ const Treehouse_artists = create_ssr_component(($$result, $$props, $$bindings, s
     $$bindings.instagram(instagram);
   if ($$props.portfolio === void 0 && $$bindings.portfolio && portfolio !== void 0)
     $$bindings.portfolio(portfolio);
-  if ($$props.marmelade === void 0 && $$bindings.marmelade && marmelade !== void 0)
-    $$bindings.marmelade(marmelade);
+  if ($$props.marmalade === void 0 && $$bindings.marmalade && marmalade !== void 0)
+    $$bindings.marmalade(marmalade);
   if ($$props.exchangeart === void 0 && $$bindings.exchangeart && exchangeart !== void 0)
     $$bindings.exchangeart(exchangeart);
   if ($$props.misc === void 0 && $$bindings.misc && misc !== void 0)
     $$bindings.misc(misc);
   $$result.css.add(css$2);
-  return ` <div class="${["artistBox svelte-1p61pbg", ""].join(" ").trim()}"${add_attribute("this", thisBox, 0)}><div class="artist svelte-1p61pbg"><div><img style="border-radius: 0.25rem; width: 100%"${add_attribute("src", `images/artist/${piece}`, 0)} alt="Artist's piece"></div> <h2 style="font-size: 2.5rem; margin: 0.5rem 0 0 0">${escape(name)}</h2></div> <div class="artistBio svelte-1p61pbg">${escape(bio)}</div> <div><h2 class="socialLinks svelte-1p61pbg" data-svelte-h="svelte-1pbc20z">Social Links</h2> ${twitter ? `<a class="bioContainer svelte-1p61pbg"${add_attribute("href", twitter, 0)}>${validate_component(Fa, "Fa").$$render($$result, { icon: faTwitter, size: "sm" }, {}, {})}Twitter</a>` : ``} ${instagram ? `<a class="bioContainer svelte-1p61pbg"${add_attribute("href", instagram, 0)}>${validate_component(Fa, "Fa").$$render($$result, { icon: faInstagram, size: "sm" }, {}, {})}Instagram</a>` : ``} <h2 class="artLinks svelte-1p61pbg" data-svelte-h="svelte-j7cz27">Art Links</h2> ${portfolio ? `<a class="bioContainer svelte-1p61pbg"${add_attribute("href", portfolio, 0)}>${validate_component(Fa, "Fa").$$render($$result, { icon: faIdCard, size: "sm" }, {}, {})}Portfolio</a>` : ``} ${marmelade ? `<a class="bioContainer svelte-1p61pbg"${add_attribute("href", marmelade, 0)}>${validate_component(Fa, "Fa").$$render($$result, { icon: faLink, size: "sm" }, {}, {})}Marmelade</a>` : ``} ${exchangeart ? `<a class="bioContainer svelte-1p61pbg"${add_attribute("href", exchangeart, 0)}>${validate_component(Fa, "Fa").$$render($$result, { icon: faLink, size: "sm" }, {}, {})}Exchange Art</a>` : ``} ${misc ? `<a class="bioContainer svelte-1p61pbg"${add_attribute("href", misc, 0)}>${validate_component(Fa, "Fa").$$render($$result, { icon: faLink, size: "sm" }, {}, {})} ${misc.length > 30 ? `${escape(misc.slice(0, 30))}` : `${escape(misc)}`}</a>` : ``}</div> </div>`;
+  return ` <div class="${["artistBox svelte-1p61pbg", ""].join(" ").trim()}"${add_attribute("this", thisBox, 0)}><div class="artist svelte-1p61pbg"><div><img style="border-radius: 0.25rem; width: 100%"${add_attribute("src", `images/artist/${piece}`, 0)} alt="Artist's piece"></div> <h2 style="font-size: 2.5rem; margin: 0.5rem 0 0 0">${escape(name)}</h2></div> <div class="artistBio svelte-1p61pbg">${escape(bio)}</div> <div><h2 class="socialLinks svelte-1p61pbg" data-svelte-h="svelte-1pbc20z">Social Links</h2> ${twitter ? `<a class="bioContainer svelte-1p61pbg"${add_attribute("href", twitter, 0)}>${validate_component(Fa, "Fa").$$render($$result, { icon: faTwitter, size: "sm" }, {}, {})}Twitter</a>` : ``} ${instagram ? `<a class="bioContainer svelte-1p61pbg"${add_attribute("href", instagram, 0)}>${validate_component(Fa, "Fa").$$render($$result, { icon: faInstagram, size: "sm" }, {}, {})}Instagram</a>` : ``} <h2 class="artLinks svelte-1p61pbg" data-svelte-h="svelte-j7cz27">Art Links</h2> ${portfolio ? `<a class="bioContainer svelte-1p61pbg"${add_attribute("href", portfolio, 0)}>${validate_component(Fa, "Fa").$$render($$result, { icon: faIdCard, size: "sm" }, {}, {})}Portfolio</a>` : ``} ${marmalade ? `<a class="bioContainer svelte-1p61pbg"${add_attribute("href", marmalade, 0)}>${validate_component(Fa, "Fa").$$render($$result, { icon: faLink, size: "sm" }, {}, {})}marmalade</a>` : ``} ${exchangeart ? `<a class="bioContainer svelte-1p61pbg"${add_attribute("href", exchangeart, 0)}>${validate_component(Fa, "Fa").$$render($$result, { icon: faLink, size: "sm" }, {}, {})}Exchange Art</a>` : ``} ${misc ? `<a class="bioContainer svelte-1p61pbg"${add_attribute("href", misc, 0)}>${validate_component(Fa, "Fa").$$render($$result, { icon: faLink, size: "sm" }, {}, {})} ${misc.length > 30 ? `${escape(misc.slice(0, 30))}` : `${escape(misc)}`}</a>` : ``}</div> </div>`;
 });
 const Container_svelte_svelte_type_style_lang = "";
 const css$1 = {
@@ -388,7 +388,7 @@ const Container = create_ssr_component(($$result, $$props, $$bindings, slots) =>
         twitter: artist.twitter,
         instagram: artist.instagram,
         portfolio: artist.portfolio,
-        marmelade: artist.marmelade,
+        marmalade: artist.marmalade,
         exchangeart: artist.exchangeart,
         misc: artist.misc
       },
@@ -405,7 +405,7 @@ const Container = create_ssr_component(($$result, $$props, $$bindings, slots) =>
         twitter: artist.twitter,
         instagram: artist.instagram,
         portfolio: artist.portfolio,
-        marmelade: artist.marmelade,
+        marmalade: artist.marmalade,
         exchangeart: artist.exchangeart,
         misc: artist.misc
       },
@@ -422,7 +422,7 @@ const Container = create_ssr_component(($$result, $$props, $$bindings, slots) =>
         twitter: artist.twitter,
         instagram: artist.instagram,
         portfolio: artist.portfolio,
-        marmelade: artist.marmelade,
+        marmalade: artist.marmalade,
         exchangeart: artist.exchangeart,
         misc: artist.misc
       },
@@ -439,7 +439,7 @@ const Container = create_ssr_component(($$result, $$props, $$bindings, slots) =>
         twitter: artist.twitter,
         instagram: artist.instagram,
         portfolio: artist.portfolio,
-        marmelade: artist.marmelade,
+        marmalade: artist.marmalade,
         exchangeart: artist.exchangeart,
         misc: artist.misc
       },
@@ -456,7 +456,7 @@ const Container = create_ssr_component(($$result, $$props, $$bindings, slots) =>
         twitter: artist.twitter,
         instagram: artist.instagram,
         portfolio: artist.portfolio,
-        marmelade: artist.marmelade,
+        marmalade: artist.marmalade,
         exchangeart: artist.exchangeart,
         misc: artist.misc
       },
@@ -473,7 +473,7 @@ const Container = create_ssr_component(($$result, $$props, $$bindings, slots) =>
         twitter: artist.twitter,
         instagram: artist.instagram,
         portfolio: artist.portfolio,
-        marmelade: artist.marmelade,
+        marmalade: artist.marmalade,
         exchangeart: artist.exchangeart,
         misc: artist.misc
       },

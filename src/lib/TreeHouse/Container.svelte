@@ -40,14 +40,14 @@
 {#if numberOfColumns === 1}
     <div class="dropsContainer1">
         {#each columnOne as artist}
-            <TreehouseArtists 
+            <TreehouseArtists
                 piece = {artist.piece}
                 name = {artist.name}
                 bio = {artist.bio}
                 twitter = {artist.twitter}
                 instagram = {artist.instagram}
                 portfolio = {artist.portfolio}
-                marmelade = {artist.marmelade}
+                marmalade = {artist.marmalade}
                 exchangeart = {artist.exchangeart}
                 misc = {artist.misc}
             />
@@ -56,14 +56,14 @@
 {:else if numberOfColumns === 2}
     <div class="dropsContainer2">
         {#each columnOne as artist}
-            <TreehouseArtists 
+            <TreehouseArtists
                 piece = {artist.piece}
                 name = {artist.name}
                 bio = {artist.bio}
                 twitter = {artist.twitter}
                 instagram = {artist.instagram}
                 portfolio = {artist.portfolio}
-                marmelade = {artist.marmelade}
+                marmalade = {artist.marmalade}
                 exchangeart = {artist.exchangeart}
                 misc = {artist.misc}
             />
@@ -71,14 +71,14 @@
     </div>
     <div class="dropsContainer2">
         {#each columnTwo as artist}
-            <TreehouseArtists 
+            <TreehouseArtists
                 piece = {artist.piece}
                 name = {artist.name}
                 bio = {artist.bio}
                 twitter = {artist.twitter}
                 instagram = {artist.instagram}
                 portfolio = {artist.portfolio}
-                marmelade = {artist.marmelade}
+                marmalade = {artist.marmalade}
                 exchangeart = {artist.exchangeart}
                 misc = {artist.misc}
             />
@@ -87,14 +87,14 @@
 {:else}
     <div class="dropsContainer3">
         {#each columnOne as artist}
-            <TreehouseArtists 
+            <TreehouseArtists
                 piece = {artist.piece}
                 name = {artist.name}
                 bio = {artist.bio}
                 twitter = {artist.twitter}
                 instagram = {artist.instagram}
                 portfolio = {artist.portfolio}
-                marmelade = {artist.marmelade}
+                marmalade = {artist.marmalade}
                 exchangeart = {artist.exchangeart}
                 misc = {artist.misc}
             />
@@ -102,14 +102,14 @@
     </div>
     <div class="dropsContainer3">
         {#each columnTwo as artist}
-            <TreehouseArtists 
+            <TreehouseArtists
                 piece = {artist.piece}
                 name = {artist.name}
                 bio = {artist.bio}
                 twitter = {artist.twitter}
                 instagram = {artist.instagram}
                 portfolio = {artist.portfolio}
-                marmelade = {artist.marmelade}
+                marmalade = {artist.marmalade}
                 exchangeart = {artist.exchangeart}
                 misc = {artist.misc}
             />
@@ -117,14 +117,14 @@
     </div>
     <div class="dropsContainer3">
         {#each columnThree as artist}
-            <TreehouseArtists 
+            <TreehouseArtists
                 piece = {artist.piece}
                 name = {artist.name}
                 bio = {artist.bio}
                 twitter = {artist.twitter}
                 instagram = {artist.instagram}
                 portfolio = {artist.portfolio}
-                marmelade = {artist.marmelade}
+                marmalade = {artist.marmalade}
                 exchangeart = {artist.exchangeart}
                 misc = {artist.misc}
             />

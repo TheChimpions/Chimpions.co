@@ -25,7 +25,7 @@
         twitter: "https://twitter.com/marculinopng",
         portfolio: "https://t.co/bzVv3ni7aQ",
         exchangeart: "https://exchange.art/artists/marculinopng/nfts",
-        marmelade: "https://famousfoxes.com/marmalade/4jKL6AZCUr8xT9dQN4jD7ZkCjJqdWPbtqkkSzNGZoDxX",
+        marmalade: "https://famousfoxes.com/marmalade/4jKL6AZCUr8xT9dQN4jD7ZkCjJqdWPbtqkkSzNGZoDxX",
         name: "Marculino"
     },
     {
@@ -33,7 +33,7 @@
         bio: "An odd artist in an odd world.",
         twitter: "https://twitter.com/OddSkull_",
         misc: "https://magiceden.io/creators/odd_skull",
-        marmelade: "https://famousfoxes.com/marmalade/5VrYihmR9bQPpDzjmKuFzjS2fXHW1aTnZreHjdooqREP",
+        marmalade: "https://famousfoxes.com/marmalade/5VrYihmR9bQPpDzjmKuFzjS2fXHW1aTnZreHjdooqREP",
         name: "OddSkull"
     },
     {
@@ -52,7 +52,7 @@
         portfolio: "https://nyaumon.wixsite.com/website",
         misc: "https://linktr.ee/nyaumon",
         exchangeart: "https://exchange.art/artists/Nyaumon/nfts",
-        marmelade: "https://famousfoxes.com/marmalade/D7Rzr6YnbKvHsmvrDbr8bbYecDcAZEeE5sJNMn1XQhDX",
+        marmalade: "https://famousfoxes.com/marmalade/D7Rzr6YnbKvHsmvrDbr8bbYecDcAZEeE5sJNMn1XQhDX",
         name: "Nyaumon",
         tws: true
     },
@@ -73,7 +73,7 @@
         misc: "https://www.magiceden.io/marketplace/cosplayx",
         instagram: "https://twitter.com/cosplayxio",
         portfolio: "https://cosplayx.io",
-        marmelade: "https://famousfoxes.com/marmalade/73RQ9nfbzdp9ZQNnocm3uN51GEKf6YZ7RCWfFWyoVqd6",
+        marmalade: "https://famousfoxes.com/marmalade/73RQ9nfbzdp9ZQNnocm3uN51GEKf6YZ7RCWfFWyoVqd6",
         name: "zeroxxx",
         chimpion: true
     },
@@ -82,7 +82,7 @@
         bio: "Artist best known for nostalgic lo-rez pixel art. Currently creating Pixel Places, Monster Friends + Zen-ROMs. Launched Zen0verse - 777 generative places in November 2021. Passionate about collecting art as well as creating it. Member of @_ledao and @The_URS_",
         twitter: "https://twitter.com/zen0m",
         portfolio: "https://zen0verse.notion.site/zen0verse/zen0m-3c25fb96ba654022961f58e048b1cadb",
-        marmelade: "https://famousfoxes.com/marmalade/zenom3SnXK6k2UJm73jRQ1n8U7KkLPrTypDatKjGxoL",
+        marmalade: "https://famousfoxes.com/marmalade/zenom3SnXK6k2UJm73jRQ1n8U7KkLPrTypDatKjGxoL",
         name: "Zen0"
     },
     {
@@ -90,14 +90,14 @@
         bio: "I like to create pixel art, illustrations and creative coding. My art is inspired in Skulls, doodles and retro techie vibes. For me, art is a process of constant exploration where I seek to express everything I imagine and feel about my inner world.",
         twitter: "https://twitter.com/4c3m1t4",
         portfolio: "https://tell.ie/4c3m1t4/ucqTwJWdCL8s",
-        marmelade: "https://famousfoxes.com/marmalade/9m8gjreD72K4LcvCwNQaWaAGLcY1kBwSjS37VyWUT5wr",
+        marmalade: "https://famousfoxes.com/marmalade/9m8gjreD72K4LcvCwNQaWaAGLcY1kBwSjS37VyWUT5wr",
         name: "4c3m1t4"
     },
     {
         piece: "lahseminit.gif",
         bio: "A fraction of collective opinions, and a struggling web3 artist",
         twitter: "https://instagram.com/lahseminit",
-        marmelade: "https://famousfoxes.com/marmalade/EpFbZxEXTcsxSFsrk3SJmYmEid47urqH2vNZrTzU4q5q",
+        marmalade: "https://famousfoxes.com/marmalade/EpFbZxEXTcsxSFsrk3SJmYmEid47urqH2vNZrTzU4q5q",
         name: "Faiq"
     },
     {
@@ -111,7 +111,7 @@
         bio: "Professional illustrator obsessed with creating cute, colorful, and cool.  Artist behind the Pepita and Friends and the Sol Badguys.",
         twitter: "https://twitter.com/duuurhminic",
         portfolio: "https://lynkfire.com/durhminic",
-        marmelade: "https://famousfoxes.com/marmalade/8Yh2YpsPSrPx1Ua5rqncsANHFi3nBLdjU5WWVmruMs6p",
+        marmalade: "https://famousfoxes.com/marmalade/8Yh2YpsPSrPx1Ua5rqncsANHFi3nBLdjU5WWVmruMs6p",
         name: "Durhminic"
     },
     {
@@ -132,14 +132,14 @@
         bio: "Hey there, I'm Greenview! Canadian NFT artist, currently working on telling the interactive story of @ShepardsSol on Solana. Join the story driven journey to save their home and stop the advance of \"The Flare\".",
         twitter: "https://twitter.com/GreenviewSol",
         misc: "https://twitter.com/ShepardsSol",
-        marmelade: "https://famousfoxes.com/marmalade/5Lowd9vydvRLSdPM89qS2vT6acT6Tpx3AVCaVhNBZrkZ",
+        marmalade: "https://famousfoxes.com/marmalade/5Lowd9vydvRLSdPM89qS2vT6acT6Tpx3AVCaVhNBZrkZ",
         name: "Greenview"
     },
     {
         piece: "Rome colaboracion final - Toronja GB.gif",
         bio: "Pixel art in two colors, pink and blue",
         twitter: "https://twitter.com/Pinkyblu_",
-        marmelade: "https://famousfoxes.com/marmalade/26n9sNhZzvX5DJbtfmkXATPucJtAS5Rp7zMw8cWfDY64",
+        marmalade: "https://famousfoxes.com/marmalade/26n9sNhZzvX5DJbtfmkXATPucJtAS5Rp7zMw8cWfDY64",
         name: "Pinkyblu"
     },
     {
@@ -147,7 +147,7 @@
         bio: "I'm Jerome a multi-medium artist from Scotland!",
         twitter: "https://twitter.com/JeromeNft",
         exchangeart: "https://exchange.art/artists/Jerome/nfts",
-        marmelade: "https://famousfoxes.com/marmalade/DMgPQMC5hDsRMdmtBhFjDF6jNrT2Pgz2Pr9EFZ3eCoe3",
+        marmalade: "https://famousfoxes.com/marmalade/DMgPQMC5hDsRMdmtBhFjDF6jNrT2Pgz2Pr9EFZ3eCoe3",
         name: "Jerome"
     },
     {
@@ -179,14 +179,14 @@
         twitter: "https://twitter.com/muimooi",
         portfolio: "https://linktr.ee/muimooi",
         exchangeart: "https://exchange.art/artists/muimooi%20/nfts",
-        marmelade: "https://famousfoxes.com/marmalade/4JE8dPnPgdmtuxtyhBECc5Zd8o8haF4tNTdoZZYaPyQJ",
+        marmalade: "https://famousfoxes.com/marmalade/4JE8dPnPgdmtuxtyhBECc5Zd8o8haF4tNTdoZZYaPyQJ",
         name: "muimooi"
     },
     {
         piece: "IMG_0343 - Picopops NFT.jpg",
         bio: "Hello! I'm Pipopops, a digital artist from Indonesia, I draw characters & sci-fi stuff wrapped in vibrant colors.",
         twitter: "https://twitter.com/Picopops",
-        marmelade: "https://famousfoxes.com/marmalade/2DN6ZDYTfrsvrShCGEB1kfGXwZNWCwSD4Fw6eNNRDAre",
+        marmalade: "https://famousfoxes.com/marmalade/2DN6ZDYTfrsvrShCGEB1kfGXwZNWCwSD4Fw6eNNRDAre",
         name: "Picopops"
     },
     {
@@ -257,7 +257,7 @@
         twitter: "https://www.twitter.com/imnotwordy",
         misc: "https://lynkfire.com/imnotwordy",
         exchangeart: "https://exchange.art/artists/imnotwordy/nfts",
-        marmelade: "https://famousfoxes.com/marmalade/CWrjfccxBYeVfxuAn4U65XAzNVAqFXeQTNcFVYAHTGXk",
+        marmalade: "https://famousfoxes.com/marmalade/CWrjfccxBYeVfxuAn4U65XAzNVAqFXeQTNcFVYAHTGXk",
         name: "Wordy"
     },
     {
@@ -284,7 +284,7 @@
         instagram: "https://www.instagram.com/septadenata/",
         portfolio: "https://linktr.ee/SDNT",
         exchangeart: "https://exchange.art/artists/SDNT/nfts",
-        marmelade: "https://famousfoxes.com/marmalade/2sqQ9ipqs8hvFgm9ez34RGHBaadmay6H7p87H65bGpnJ",
+        marmalade: "https://famousfoxes.com/marmalade/2sqQ9ipqs8hvFgm9ez34RGHBaadmay6H7p87H65bGpnJ",
         name: "SDNT"
     },
     {
@@ -299,10 +299,9 @@
         bio: "I'm Neuromind and I've been making digital paintings since 2010 utilizing programs such as Photoshop, Fractal, AI tools and various 3d programs. I'm also an aspiring game developer and hope to start making my own small game as well. I was drawn to Solana because of the Art and I've stayed because of the people.",
         twitter: "https://twitter.com/NeuromindArt",
         misc: "https://twitter.com/sol9lives",
-        marmelade: "https://famousfoxes.com/marmalade/HVmwvpRsDUAmT8p1yaiTvaQm2oGAZFuuABFVxK19xHvT",
+        marmalade: "https://famousfoxes.com/marmalade/HVmwvpRsDUAmT8p1yaiTvaQm2oGAZFuuABFVxK19xHvT",
         name: "Neuromind"
     },
     ];
 
 </script>
-
