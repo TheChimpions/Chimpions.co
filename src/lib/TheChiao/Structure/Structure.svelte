@@ -3,70 +3,110 @@
     import Fa from 'svelte-fa/src/fa.svelte';
     import { faDiscord, faTwitter } from '@fortawesome/free-brands-svg-icons/index.js';
     import { council } from "../../_content/council.svelte";
+    import { exec } from "../../_content/exec.svelte";
     import chimpions from '../../_content/chimpions.json';
 </script>
 
 <section class="sectionContainer">
     <h2 class="subsectionHeading">FAQ</h2>
-        <div class="qa">
-            <p class="subsectionQuestion">
-                When was the launch?
-            </p>
-            <p class="subsectionAnswer">
-                The Chimpions minted on January 31st, 2022 for 0.22 SOL.<br/>The project utilized a 100% whitelist, 1-per-wallet approach.<br/>Whitelists were offered via Discord/Twitter giveaways as well as through art and lore submissions.
-            </p>
+    <div class="qa">
+        <p class="subsectionQuestion">
+            When was the launch?
+        </p>
+        <p class="subsectionAnswer">
+            The Chimpions minted on January 31st, 2022 for 0.22 SOL.<br/>The project utilized a 100% whitelist, 1-per-wallet approach.<br/>Whitelists were offered via Discord/Twitter giveaways as well as through art and lore submissions.
+        </p>
+    </div>
+    <div class="qa">
+        <p class="subsectionQuestion">
+            Where can I buy a Chimpion?
+        </p>
+        <p class="subsectionAnswer">
+            You can buy a Chimpion on <a href="https://www.tensor.trade/trade/the_chimpions">Tensor</a>.
+        </p>
+    </div>
+    <div class="qa">
+        <p class="subsectionQuestion">
+            Why should I buy a Chimpion?
+        </p>
+        <div class="subsectionAnswer">
+            <p>
+            There are so many reasons to buy a Chimpion. We think some of the most compelling are detailed in these two threads by our leads (TLDR: art + alpha + community):</p>
+            <li><a href="https://twitter.com/ThesisInvestor/status/1523642327419432961" target="_blank">ThesisInvestor's Tweet</a>.</li>
+            <li><a href="https://twitter.com/max___brs/status/1508154075405193217" target="_blank">MaxBrs' Tweet</a>.</li>
         </div>
-        <div class="qa">
-            <p class="subsectionQuestion">
-                Where can I buy a Chimpion?
-            </p>
-            <p class="subsectionAnswer">
-                You can buy a Chimpion on <a href="https://www.tensor.trade/trade/the_chimpions">Tensor</a>.
-            </p>
-        </div>
-        <div class="qa">
-            <p class="subsectionQuestion">
-                Why should I buy a Chimpion?
-            </p>
-            <div class="subsectionAnswer">
-                <p>
-                There are so many reasons to buy a Chimpion. We think some of the most compelling are detailed in these two threads by our leads (TLDR: art + alpha + community):</p>
-                <li><a href="https://twitter.com/ThesisInvestor/status/1523642327419432961" target="_blank">ThesisInvestor's Tweet</a>.</li>
-                <li><a href="https://twitter.com/max___brs/status/1508154075405193217" target="_blank">MaxBrs' Tweet</a>.</li>
+    </div>
+    <div class="qa">
+        <p class="subsectionQuestion">
+            Who leads the Chimpions?
+        </p>
+        <p class="subsectionAnswer">
+          Every 6 months, the Chimpions elect the council. Any member of the chiao can run for a seat on the council. In April 2025, <a href="#the-council">8 members</a> have been elected to lead the Chimpions.
+          In addition, an executive team was also elected that is responsible for the day-to-day operations of the project. The current executive team consists of <a href="#exec-team">3 members</a>.
+        </p>
+    </div>
+    <div class="qa">
+        <p class="subsectionQuestion">
+            Is there an official Twitter account?
+        </p>
+        <p class="subsectionAnswer">
+          Here is our account: <a href="https://twitter.com/TheChimpions/">https://twitter.com/TheChimpions/</a>.<br/>You can follow us to keep up to date with our latest news.
+        </p>
+    </div>
+    <div class="qa">
+        <p class="subsectionQuestion">
+            Is there an official ranking?
+        </p>
+        <p class="subsectionAnswer">
+          No. Each Chimpion is a 1/1 NFT, so rarity is purely in the eyes of the beholder.
+        </p>
+    </div>
+    <div class="qa">
+        <p class="subsectionQuestion">
+            What else should I know?
+        </p>
+        <p class="subsectionAnswer">
+          The Chimpions are a tight knit community. If you have a question, don’t hesitate to ask on <a href="https://twitter.com/TheChimpions/">Twitter</a> or on <a href="https://discord.gg/thechimpions">Discord</a>.
+        </p>
+    </div>
+
+    <h2 class="subsectionHeading" id="exec-team"> The Exec Team</h2>
+    <div class="subsectionParagraph">
+      <p>
+          The Exec Team delivers on the roadmap working to drive value to Chimpions and Solana Communities.
+      </p>
+      <p>
+          The current Exec Team includes:
+      </p>
+    </div>
+    <div class="council">
+      {#each exec as execMember }
+        <div class="lead-box">
+          <img
+            class='chimpImage'
+            src={execMember.chimp.paths.gif}
+            alt='Chimpion of {execMember.name}'
+          />
+          <div class="leadDescription">
+            <div class='leadName'>
+              {execMember.name}
             </div>
+            <div class='leadTwitterAndDiscord'>
+              {execMember.title}
+            </div>
+            <div class='leadTwitterAndDiscord'>
+              <Fa icon={faTwitter} size="sm" />
+              <a href="https://twitter.com/{execMember.twitter}" target="_blank" rel="noreferrer" style="color: inherit; text-decoration:none;
+              cursor:pointer;">{execMember.twitter}</a>
+            </div>
+            <div class='leadTwitterAndDiscord'>
+              <Fa icon={faDiscord} size="sm" />
+              {execMember.discord}
+            </div>
+          </div>
         </div>
-        <div class="qa">
-            <p class="subsectionQuestion">
-                Who leads the Chimpions?
-            </p>
-            <p class="subsectionAnswer">
-                Every 6 months, the Chimpions elect the council. Any member of the chiao can run for a seat on the council. In January, <a href="#the-council">11 members</a> have been elected to lead the Chimpions. 
-            </p>
-        </div>
-        <div class="qa">
-            <p class="subsectionQuestion">
-                Is there an official Twitter account?
-            </p>
-            <p class="subsectionAnswer">
-                Here is our account: <a href="https://twitter.com/TheChimpions/">https://twitter.com/TheChimpions/</a>.<br/>You can follow us to keep up to date with our latest news.
-            </p>
-        </div>
-        <div class="qa">
-            <p class="subsectionQuestion">
-                Is there an official ranking?
-            </p>
-            <p class="subsectionAnswer">
-                No. Each Chimpion is a 1/1 NFT, so rarity is purely in the eyes of the beholder.
-            </p>
-        </div>
-        <div class="qa">
-            <p class="subsectionQuestion">
-                What else should I know?
-            </p>
-            <p class="subsectionAnswer">
-                The Chimpions are a tight knit community. If you have a question, don’t hesitate to ask on <a href="https://twitter.com/TheChimpions/">Twitter</a> or on <a href="https://discord.gg/thechimpions">Discord</a>.
-            </p>
-        </div>
+      {/each}
+    </div>
 
     <h2 class="subsectionHeading" id="the-council">
         The Council
@@ -93,7 +133,7 @@
                     </div>
                     <div class='leadTwitterAndDiscord'>
                         <Fa icon={faTwitter} size="sm" />
-                        <a href="https://twitter.com/{councilMember.twitter}" target="_blank" rel="noreferrer" style="color: inherit; text-decoration:none; 
+                        <a href="https://twitter.com/{councilMember.twitter}" target="_blank" rel="noreferrer" style="color: inherit; text-decoration:none;
                         cursor:pointer;">{councilMember.twitter}</a>
                     </div>
                     <div class='leadTwitterAndDiscord'>
@@ -147,7 +187,7 @@
     ol li {
         margin: 1rem;
     }
-    
+
     .CEO {
         margin: auto;
         display: grid;
@@ -155,7 +195,7 @@
         width: fit-content;
         justify-items: center;
     }
-    
+
     .council {
         --numberOfColumns: 1;
         --column-gap: calc(80vw - var(--numberOfColumns) * 250px);
