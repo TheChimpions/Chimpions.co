@@ -16,7 +16,7 @@
     export let twitter = "";
     export let instagram = "";
     export let portfolio = "";
-    export let marmelade = "";
+    export let marmalade = "";
     export let exchangeart = "";
     export let misc = "";
 
@@ -72,9 +72,9 @@
                 <Fa icon={faIdCard} size="sm" />Portfolio
             </a>
         {/if}
-        {#if marmelade}
-            <a class="bioContainer" href={marmelade}>
-                <Fa icon={faLink} size="sm" />Marmelade
+        {#if marmalade}
+            <a class="bioContainer" href={marmalade}>
+                <Fa icon={faLink} size="sm" />marmalade
             </a>
         {/if}
         {#if exchangeart}
@@ -82,7 +82,7 @@
                 <Fa icon={faLink} size="sm" />Exchange Art
             </a>
         {/if}
-        {#if misc} 
+        {#if misc}
             <a class="bioContainer" href={misc}>
                 <Fa icon={faLink} size="sm" />
                 {#if misc.length > 30}
@@ -129,7 +129,7 @@
         -webkit-transform: translateY(0px);
         opacity: 1;
     }
-    
+
     .artist {
         text-align: center;
         border-radius: 0.25rem;
