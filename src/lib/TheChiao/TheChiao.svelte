@@ -20,18 +20,18 @@
     <div class="toShow">
         <button class="button {selected === 'Structure' ? 'selected' : ''}" on:click={() => selected = "Structure"}>Structure</button>
         <button class="button {selected === 'OurVision' ? 'selected' : ''}" on:click={() => selected = "OurVision"}>Our Vision</button>
-        <button class="button {selected === 'TheGallery' ? 'selected' : ''}" on:click={() => selected = "TheGallery"}>The Gallery</button>
+        <!-- <button class="button {selected === 'TheGallery' ? 'selected' : ''}" on:click={() => selected = "TheGallery"}>The Gallery</button> -->
         <button class="button {selected === 'TreeHollow' ? 'selected' : ''}" on:click={() => selected = "TreeHollow"}>The Tree&nbsp;Hollow</button>
     </div>
     {#if selected === "Structure"}
         <Structure />
     {:else if selected === "OurVision"}
         <OurVision />
-    {:else if selected === "TheGallery"}
-        <TheGallery />
+    <!-- {:else if selected === "TheGallery"}
+        <TheGallery /> -->
     {:else if selected === "TreeHollow"}
         <TreeHollow />
-    {/if}	
+    {/if}
     <BackToTop />
 </section>
 
