@@ -22,7 +22,7 @@
             Where can I buy a Chimpion?
         </p>
         <p class="subsectionAnswer">
-            You can buy a Chimpion on <a href="https://www.tensor.trade/trade/the_chimpions">Tensor</a>.
+            You can buy a Chimpion on <a href="https://www.tensor.trade/trade/the_chimpions">Tensor</a> or <a href="https://magiceden.us/marketplace/the_chimpions">Magic Eden</a>.
         </p>
     </div>
     <div class="qa">

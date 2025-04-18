@@ -1,6 +1,6 @@
 <script>
     import Collection from './Collection.svelte';
-    
+
 
     const collections = [
         {
@@ -108,7 +108,7 @@
 	<div class="subsectionParagraph">
         <p>The Chimpions are the silent force behind the Solana ecosystem, providing essential support to many of the projects that make it up.
 		</p>
-        <p>Below are some assets of The Chimpions.</p>
+        <p>Below are some assets of The Chimpions members.</p>
 		<br/>
     </div>
     <div class="collections">
